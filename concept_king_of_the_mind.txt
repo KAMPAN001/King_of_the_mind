@@ -1,0 +1,12 @@
+Simple game for two players.
+The game has 100 questions and player can ansver yes or no.
+The game has ten position for one player, if player answers correctly he will move one square. Bad ansver -> stay.
+The first person to reach 10 wins.
+
+I want to use:
+class
+virtual class/methods
+vectors
+file save/load
+git
+simple animation
