@@ -127,7 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="KingOfTheMind.cpp" />
     <ClCompile Include="king_of_the_mind.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="KingOfTheMind.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

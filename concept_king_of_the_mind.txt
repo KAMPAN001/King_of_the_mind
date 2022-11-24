@@ -7,6 +7,5 @@ I want to use:
 class
 virtual class/methods
 vectors
-file save/load
+file save
 git
-simple animation

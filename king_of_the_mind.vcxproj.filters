@@ -18,5 +18,13 @@
     <ClCompile Include="king_of_the_mind.cpp">
       <Filter>Pliki źródłowe</Filter>
     </ClCompile>
+    <ClCompile Include="KingOfTheMind.cpp">
+      <Filter>Pliki zasobów</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="KingOfTheMind.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
